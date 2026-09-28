@@ -19,7 +19,7 @@ The project goes beyond isolated SQL queries by connecting:
 
 ## 🚀 Live Dashboard
 
-### [▶ View Interactive Looker Studio Dashboard](YOUR_LOOKER_STUDIO_DASHBOARD_LINK)
+### [▶ View Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/c415700a-a100-4e78-84bf-445e071a173b)
 
 The dashboard contains four customer analytics sections:
 
