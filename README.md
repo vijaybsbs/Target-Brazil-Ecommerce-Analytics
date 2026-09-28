@@ -28,8 +28,6 @@ The dashboard contains four customer analytics sections:
 3. High-Value Customer Pathways
 4. Recent High-Value Customer Profile
 
-> Replace `YOUR_LOOKER_STUDIO_DASHBOARD_LINK` with the final published Looker Studio URL.
-
 ---
 
 ## 🎯 Business Problem
