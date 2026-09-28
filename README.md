@@ -415,7 +415,7 @@ target-brazil-ecommerce-analytics/
 ├── documentation/
 │   ├── ER_Diagram.png
 │   ├── Target_Brazil_Ecommerce_Detailed_Analysis_Report.pdf
-│   └── methodology.md
+│   ├── Target_Brazil_Ecommerce_Detailed_Analysis_Report.docx
 │
 ├── sql/
 │   ├── PHASE 1 - DATA QUALITY & INTEGRITY.sql
@@ -428,11 +428,6 @@ target-brazil-ecommerce-analytics/
 │
 └── data/
     └── README.md
-```
-
-Raw dataset files are not included in the repository.
-
----
 
 # 🛠️ Technology Stack
 
